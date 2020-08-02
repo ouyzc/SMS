@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SMS</string>
+    <string name="textview">textView</string>
+    <string name="button1">写入文件</string>
+    <string name="button">Button</string>
+</resources>
